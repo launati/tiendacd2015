@@ -1,0 +1,6 @@
+<?php
+echo "<html>
+        <head><title>::FORMULARIOS PARA INSERTAR::</title></head>
+        <body>";
+        //verifica que se selecciono
+        if ($_GET['id'])
