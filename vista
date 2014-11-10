@@ -1,0 +1,8 @@
+<?php
+echo"<html>
+      <head><title>::Formularios para insertar::</title></head>"
+      <body>
+      <h1> ESte es el body !! </h1>
+      </body>
+      </html>"
+?>
