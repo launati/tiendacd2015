@@ -19,6 +19,7 @@ maxlength='5'><br/>
  			<input type='submit' name='boton' value='Alta_Cajero'>
  			</form>";
  		}//fin del if get
+ 		// Faltan mas lineas
 
 
         	
