@@ -1,0 +1,5 @@
+<?php
+//http://php.net/manual/es/function.mysql-connect.php
+//Colocar el puerto
+$enlace = mysql_connect('127.0.0.1:3307', 'usuario_mysql',  'contraseña_mysql');
+?>
